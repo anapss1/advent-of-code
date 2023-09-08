@@ -22,3 +22,11 @@ $ python ./main.py
 ```
 $ node ./main.js
 ```
+
+## Rust
+
+For Rust, first `cd` into the cargo project directory:
+```
+$ cd rust
+$ cargo run
+```
