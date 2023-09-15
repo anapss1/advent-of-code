@@ -33,7 +33,7 @@ $ cargo run
 
 ## C#
 
-For Rust, first `cd` into the C# project directory:
+For C#, first `cd` into the C# project directory:
 ```
 $ cd c#
 $ dotnet run
