@@ -30,3 +30,11 @@ For Rust, first `cd` into the cargo project directory:
 $ cd rust
 $ cargo run
 ```
+
+## C#
+
+For Rust, first `cd` into the C# project directory:
+```
+$ cd c#
+$ dotnet run
+```
